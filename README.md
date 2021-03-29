@@ -8,11 +8,15 @@ The purpose of this analysis is to help Steve analyze the stock data for helping
 The results we found for Steve were that 2017 had almost the opposite outcome vs 2018. 2017 provided almost all postivie returns (TERP being the only negative), whereas 2018 provided almost all negative returns (ENPH and RUN being the only positive).
 
 The tables below show the results by year:
+
 ![2018 Returns](https://user-images.githubusercontent.com/80076110/112773853-40b47c00-8ffd-11eb-8da4-8e1cb31382fe.PNG)
+
 ![2017 Returns](https://user-images.githubusercontent.com/80076110/112773849-3d20f500-8ffd-11eb-8b5a-01b69a01b24a.PNG)
 
 Further, the execution times of the refactored script is significantly reduced vs the original code written. The run times for the refactored script were sub 0.2 seconds, where the unfactored script runtimes were in the 0.6 - 0.7 second ranges.
+
 ![2017 Refactored Runtime](https://user-images.githubusercontent.com/80076110/112773859-46aa5d00-8ffd-11eb-8777-6733a8eeab45.PNG)
+
 ![2018 Refactored Runtime](https://user-images.githubusercontent.com/80076110/112773862-490cb700-8ffd-11eb-9544-de4ca45b88a9.PNG)
 
 ## Summary
